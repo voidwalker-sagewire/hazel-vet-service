@@ -1,0 +1,35 @@
+# ═══════════════════════════════════════════════════════════════
+# HAZEL — Exotic Vet Knowledge Sources
+# "Honest Advice for Zoological, Exotic & Little critters"
+# Collection: hazel_exotic_knowledge   |   Port: 5007
+# ═══════════════════════════════════════════════════════════════
+# Backbone: Merck Veterinary Manual "Exotic & Laboratory Animals" section —
+# it has owner-facing coverage of every major exotic group in ONE consistent,
+# authoritative, ingestable source (the colic page from this domain worked for Joe).
+# Organized by exotic TYPE so the pile is clean. Gathered for Tuesday's build.
+# NOTE: exotics is the widest range + highest stakes — this is a STARTER pile to
+# expand. Hazel's prompt should first ask "what kind of exotic?" then help.
+
+# ─────────── REPTILES (snakes, lizards, turtles/tortoises) ───────────
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/management-of-reptiles
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/disorders-and-diseases-of-reptiles
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/routine-health-care-of-reptiles
+
+# ─────────── PET BIRDS (parrots, etc.) ───────────
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/management-of-pet-birds
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/disorders-and-diseases-of-pet-birds
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/routine-health-care-of-pet-birds
+
+# ─────────── RABBITS ───────────
+https://www.merckvetmanual.com/all-other-pets/rabbits/disorders-and-diseases-of-rabbits
+https://www.merckvetmanual.com/all-other-pets/rabbits/routine-health-care-of-rabbits
+
+# ─────────── FERRETS ───────────
+https://www.merckvetmanual.com/all-other-pets/ferrets/disorders-and-diseases-of-ferrets
+
+# ─────────── SMALL RODENTS (guinea pigs, hamsters, rats) ───────────
+https://www.merckvetmanual.com/all-other-pets/guinea-pigs/disorders-and-diseases-of-guinea-pigs
+https://www.merckvetmanual.com/all-other-pets/hamsters/disorders-and-diseases-of-hamsters
+
+# ─────────── FISH ───────────
+https://www.merckvetmanual.com/exotic-and-laboratory-animals/aquarium-fishes/diseases-of-aquarium-fishes
