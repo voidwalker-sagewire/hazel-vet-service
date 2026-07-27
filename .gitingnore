@@ -1,0 +1,9 @@
+credentials.json
+*.credentials.json
+hazel_exotic_db/
+*.sqlite3
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
